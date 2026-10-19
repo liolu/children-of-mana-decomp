@@ -1,0 +1,6 @@
+func_01ff8000 kind:function(arm,size=0x60) addr:0x01ff8000
+func_01ff8060 kind:function(arm,size=0x38) addr:0x01ff8060
+func_01ff8098 kind:function(arm,size=0x74) addr:0x01ff8098
+func_01ff810c kind:function(arm,size=0x50) addr:0x01ff810c
+func_01ff815c kind:function(arm,size=0x58) addr:0x01ff815c
+func_01ff81b4 kind:function(arm,size=0x154) addr:0x01ff81b4
