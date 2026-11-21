@@ -1,5 +1,7 @@
 # Childrenmana decompilation (USA)
 
+> **This game moved to [liolu/All-nds-decomp-games](https://github.com/liolu/All-nds-decomp-games/tree/main/games/C/children-of-mana)** (`games/C/children-of-mana`), with its whole history: every Nintendo DS decompilation in one repository, one game downloadable on its own (`python nds.py get children-of-mana`). This repository is archived; issues and pull requests go there.
+
 Nintendo DS, game code `ASEE`. Matching decompilation with Metrowerks mwccarm (compiler version still to be identified: `python tools/probe_compiler.py`).
 
 No game assets in this repository: see `extract/README.md`.
